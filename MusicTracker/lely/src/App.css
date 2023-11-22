@@ -1,0 +1,23 @@
+.bg-pink{
+  background-color: rgb(247, 89, 163);
+}
+.btn-pink{
+  background-color: rgb(247, 89, 163);
+  color: white;
+}
+.text-pink{
+  color:rgb(247, 89, 163);
+}
+*{
+  background-color: black;
+  color: white;
+}
+.header{
+  background-image: url('./head.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1,h2,h3,h4,h5,h6,p{
+  background-color: transparent;
+}
